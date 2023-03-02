@@ -1,1 +1,1 @@
-# add the project Diplom_1
+# Diplom_1
